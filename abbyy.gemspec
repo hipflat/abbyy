@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry", "~> 0"
   spec.add_development_dependency "pry-doc", "~> 0"
 
-  spec.add_dependency "rest-client", ">= 1.8.0"
+  spec.add_dependency "rest-client", ">= 1.7.2"
 end
